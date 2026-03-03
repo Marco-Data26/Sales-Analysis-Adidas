@@ -21,7 +21,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 ## Objective
 
-The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline while providing strategic recommendations to support revenue recovery and future growth. 
+This analysis investigates the factors behind the lower revenue levels in 2020 compared to the 2021 expansion, identifying key drivers of growth and providing actionable strategies to ensure long-term recovery and scalability.
 
 ## Key Insights
  
